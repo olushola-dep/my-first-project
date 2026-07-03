@@ -1,14 +1,13 @@
-# Olushola | Frontend Developer in Training 📱🇳🇬→🇺🇸
+# Olushola | Frontend Developer 🇳🇬
 
-**🚀 Live Site:** https://olushola-dep.github.io/my-first-project/ 
-**Built 100% from my phone** in Okitipupa, Nigeria
+A self-taught frontend developer focused on building clean, responsive web applications. Experienced in writing semantic HTML, modern CSS, and efficient JavaScript. Currently expanding my stack with Python and Django.
 
-### Tech Stack
-`HTML` `CSS` `JavaScript` | **Learning Next:** `Python` `Django`
+🚀 **Live Portfolio:** [View My Live Project](https://olushola-dep.github.io/my-first-project/)
 
-### About Me
-IFT Trainee. Self-taught dev building daily from mobile. 
-**Open to H1B/J1 Sponsorship** for Junior Frontend Roles.
+### 🛠️ Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Learning:** Python, Django, Next.js
 
-### Contact
-DM me for projects or collaboration.
+### ✉️ Contact
+* **GitHub:** [dm me for collaboration]
+* Open to contract and full-time global remote frontend roles.
